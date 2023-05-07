@@ -1,0 +1,14 @@
+<launch>
+  <node pkg="test_package" type="test_publisher.py" name="test_package" output="screen" />
+</launch>
+
+
+
+
+
+
+
+
+
+
+
