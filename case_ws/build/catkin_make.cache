@@ -1,0 +1,2 @@
+composiv_tryouts:test_package
+-DCATKIN_DEVEL_PREFIX=/home/rnd/eteration_case/projects/case_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rnd/eteration_case/projects/case_ws/install -G Unix Makefiles
